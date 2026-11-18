@@ -1,0 +1,65 @@
+{
+  "recipient_email": "anesumupesa@gmail.com",
+  "recipient_name": "Anesu",
+  "timezone": "Indian/Mauritius",
+  "schedule_description": "Every day at 6:00 AM Mauritius Time (02:00 UTC)",
+  "categories": {
+    "politics": {
+      "display_name": "Global Politics & Geopolitics",
+      "enabled": true,
+      "sources": [
+        "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=geopolitics+international+relations&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "max_items": 4
+    },
+    "stocks_and_trading": {
+      "display_name": "Stocks, Trading & Financial Markets",
+      "enabled": true,
+      "sources": [
+        "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=stock+market+trading+macro+investing&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "max_items": 4
+    },
+    "technology": {
+      "display_name": "Technology & Artificial Intelligence",
+      "enabled": true,
+      "sources": [
+        "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=artificial+intelligence+breakthrough+silicon&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "max_items": 4
+    },
+    "sports": {
+      "display_name": "Sports & Athletic Narratives",
+      "enabled": true,
+      "sources": [
+        "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=premier+league+champions+league+basketball&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "max_items": 4
+    },
+    "custom_interests": {
+      "display_name": "Deep Curiosities & Frontier Discoveries",
+      "enabled": true,
+      "sources": [
+        "https://news.google.com/rss/search?q=scientific+breakthrough+discovery&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=behavioral+psychology+human+nature&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "max_items": 3
+    }
+  },
+  "most_interesting_person": {
+    "enabled": true,
+    "theme_rotation": [
+      "Psychology & Human Quirks",
+      "Game Theory & High-Stakes Strategy",
+      "Untold History & Secret Diplomatic Maneuvers",
+      "Macroeconomics, Commodities & Market Folklore",
+      "Frontier Science & Mind-Bending Cosmos",
+      "Philosophy & Counter-Intuitive Mental Models",
+      "The Art of Wit, Rhetoric & Charisma"
+    ]
+  }
+}
