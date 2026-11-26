@@ -1,7 +1,7 @@
 {
   "system_initialized": "2026-11-18",
-  "runs_count": 9,
-  "last_run_date": "2026-11-25",
+  "runs_count": 10,
+  "last_run_date": "2026-11-26",
   "recent_facts": [
     "The IKEA Effect explains why we irrationally overvalue our own work, a bias that can be neutralized by asking if we would choose our current projects if we hadn't started them ourselves.",
     "The Chainstore Paradox reveals that irrational aggression can be a rational long-term strategy to deter future competitors.",
@@ -11,7 +11,8 @@
     "Insight on Philosophy & Counter-Intuitive Mental Models",
     "Insight on The Art of Wit, Rhetoric & Charisma",
     "The IKEA Effect explains why we overvalue our own work, turning labor into a bias that blinds us to the objective quality of our output.",
-    "Insight on Game Theory & High-Stakes Strategy"
+    "Insight on Game Theory & High-Stakes Strategy",
+    "The \"Ghost Diplomacy\" phenomenon reveals that authority is often a performative brand rather than an individual reality."
   ],
   "recent_themes": [
     "2026-11-19: Psychology & Human Quirks",
@@ -22,7 +23,8 @@
     "2026-11-22: Philosophy & Counter-Intuitive Mental Models",
     "2026-11-23: The Art of Wit, Rhetoric & Charisma",
     "2026-11-24: Psychology & Human Quirks",
-    "2026-11-25: Game Theory & High-Stakes Strategy"
+    "2026-11-25: Game Theory & High-Stakes Strategy",
+    "2026-11-26: Untold History & Secret Diplomatic Maneuvers"
   ],
   "evolution_level": 2,
   "feedback_notes": [
